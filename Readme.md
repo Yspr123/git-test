@@ -1,5 +1,5 @@
 Welcome to dev-chin
-this is coming from dev-chin
+this is comig from dev-chin
 
-this is coming from dev-shiv
+this is comig frm dev-shiv
 we are making changes in the feature branch
